@@ -1,1 +1,2 @@
-# addition\nanother @haskellbook exercise
+# addition
+another @haskellbook exercise
